@@ -43,7 +43,7 @@ Synthetic users tighten that loop. They give you instant access to multiple pers
 
   
 
-#[visual of a designer iterating with a small roster of synthetic teammates around them]
+***#[visual of a designer iterating with a small roster of synthetic teammates around them]***
 
   
 
@@ -79,7 +79,7 @@ The real value is the range and flexibility. You can switch perspectives instant
 
   
 
-#[visual of different synthetic persona cards orbiting a central idea]
+***#[visual of different synthetic persona cards orbiting a central idea]***
 
   
 
@@ -107,7 +107,7 @@ Start with the roles that consistently influence product decisions.
 
   
 
-#[visual of a small virtual team cluster: design, PM, architecture, research, customers, executives]
+***#[visual of a small virtual team cluster: design, PM, architecture, research, customers, executives]***
 
   
 
@@ -167,17 +167,17 @@ Each persona should include:
 
   
 
-- role and purpose
+- Role and purpose
 
-- skills and domain experience
+- Skills and domain experience
 
-- feedback style (short, direct, descriptive, critical, structural, business-focused, technical)
+- Feedback style (short, direct, descriptive, critical, structural, business-focused, technical)
 
-- personality traits that shape tone and response
+- Personality traits that shape tone and response
 
   
 
-#[visual of a synthetic persona template showing role, skills, experience, feedback style, traits]
+***#[visual of a synthetic persona template showing role, skills, experience, feedback style, traits]***
 
   
 
@@ -313,7 +313,7 @@ Imagine a PM asks you to improve incident remediation for SREs.
 
   
 
-[visual of a step-by-step workflow with synthetic personas assisting at each stage]
+***[visual of a step-by-step workflow with synthetic personas assisting at each stage]***
 
   
 
