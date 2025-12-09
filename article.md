@@ -7,7 +7,9 @@
 
 By Neil Everette, December 9, 2025
 
->**This is a practical how-to guide on using synthetic users and AI automation to support your design process. The goal is simple: help you improve your workflow, accelerate your iteration cycles, and strengthen your outcomes by integrating AI as a reliable teammate throughout your daily work.**  
+>**This is a practical how-to guide on using synthetic users and AI automation to support your design process. The goal is simple: help you improve your workflow, accelerate your iteration cycles, and strengthen your outcomes by integrating AI as a reliable teammate throughout your daily work.** 
+
+
 ---
 Design work depends on something we rarely have enough of: **timely, high-quality feedback.** Most teams wait for the next design share or PM sync or user session, hoping for clarity but often getting surface-level reactions or not enough time to explore the idea. The cycle slows down. Early concepts feel uncertain. A lot of manual effort goes into preparing work that still doesn’t get the depth of critique it needs.
 
