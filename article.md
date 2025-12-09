@@ -176,6 +176,7 @@ Here are some of my go-to profiles.
 
   
 
+![alt text](IMG_4.jpg)
   
 
 A solid synthetic roster should mimic the team of people who already support your work. The goal isn’t to recreate individuals but to capture the perspectives you need to shape, test, iterate, and refine ideas from multiple angles. Think of this as a small virtual design organization that you have instant access to.
