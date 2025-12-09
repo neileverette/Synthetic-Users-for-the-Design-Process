@@ -34,6 +34,9 @@ Before we get too far, I can already hear the little voices from other designers
 - Think of it as a time saver, not an autonomous decision-maker. And no, this doesn’t displace designers. It creates a shift-left advantage. You get to spend more time earlier in the project where the thinking is most valuable, where customer experience gets shaped, and where your craft has the most influence.
 
   
+  ![alt text](IMG_1.jpg)
+The opportunity space for design is in a "shift-left" mindset where we can most effectively work with their product partners to maximize the value of their skills and experiences.
+
 
 ## Accelerating design through synthetic pair teammates
 
