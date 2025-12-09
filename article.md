@@ -52,6 +52,9 @@ In between those touchpoints, designers spend considerable time gathering contex
 
 Synthetic users tighten that loop. They give you instant access to multiple perspectives at the exact moment you need them. You can ask questions, refine flows, pressure-test assumptions, and clarify intent without waiting for a meeting or preparing a deck. The feedback cadence aligns with your design cadence.
 
+
+  ![alt text](IMG_2.jpg)
+
   
 
 ***[visual of a designer iterating with a small roster of synthetic teammates around them]***
