@@ -60,7 +60,7 @@ Before we get too far, I can already hear the little voices from other designers
 
   
 
-![alt text](IMG_1.jpg)
+![alt text](IMG_01.jpg)
 
 The opportunity space for design is in a "shift-left" mindset where we can most effectively work with their product partners to maximize the value of their skills and experiences.
 
@@ -90,7 +90,7 @@ Synthetic users tighten that loop. They give you instant access to multiple pers
   
   
 
-![alt text](IMG_2.jpg)
+![alt text](IMG_02.jpg)
 
 Illustration of the area of opportunity for innovation further in the supply chain.
 
@@ -124,7 +124,7 @@ Synthetic users are AI-driven teammates you design with intention and purpose. T
 
   
 
-![alt text](IMG_3.jpg)
+![alt text](IMG_03.jpg)
 
 Properties to help set up your synthetic users
 
@@ -176,7 +176,7 @@ Here are some of my go-to profiles.
 
   
 
-![alt text](IMG_4.jpg)
+![alt text](IMG_04.jpg)
 Illustration of the area of opportunity for innovation further in the supply chain.
 
   
