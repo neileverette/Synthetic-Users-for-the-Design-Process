@@ -8,8 +8,8 @@
 By Neil Everette, December 9, 2025
 
 >**This is a practical how-to guide on using synthetic users and AI automation to support your design process. The goal is simple: help you improve your workflow, accelerate your iteration cycles, and strengthen your outcomes by integrating AI as a reliable teammate throughout your daily work.**  
-
-Design work depends on something we rarely have enough of: timely, high-quality feedback. Most teams wait for the next design share or PM sync or user session, hoping for clarity but often getting surface-level reactions or not enough time to explore the idea. The cycle slows down. Early concepts feel uncertain. A lot of manual effort goes into preparing work that still doesn’t get the depth of critique it needs.
+---
+Design work depends on something we rarely have enough of: **timely, high-quality feedback.** Most teams wait for the next design share or PM sync or user session, hoping for clarity but often getting surface-level reactions or not enough time to explore the idea. The cycle slows down. Early concepts feel uncertain. A lot of manual effort goes into preparing work that still doesn’t get the depth of critique it needs.
 
 AI tools like ChatGPT, Claude, or Copilot are beginning to change this dynamic. They can function as synthetic teammates across the roles we typically rely on. You can work with them as designers, PMs, architects, researchers, or even as customers seeing your idea for the first time. They provide fast, repeatable feedback whenever you need it. They help you explore the problem space, improve your reasoning, and reduce the overhead required to get to a strong concept.
 
@@ -31,7 +31,7 @@ This article is a practical guide to using AI to accelerate design and research.
 
   
 
-Design moves fastest when feedback is close to the work. The challenge isn’t capability or creativity. It’s the rhythm of modern product teams. Most feedback cycles are spaced too far apart. You prepare a concept, walk through it with the team, and hope for reactions that help shape it meaningfully. Large meetings limit critique. Time slots run out. The dialogue often stays at the surface because the room is too big for deep engagement.
+Design moves fastest when feedback is close to the work. The challenge isn’t capability or creativity. It’s the rhythm of modern product teams. You know the drill. You get a 15 min slot in either your design team meeting or your 3IAB product team meeting. You prepare your material, explain your idea, and you get either crickets, or feedback on details that aren't targeted at the actual product design. Large meetings limit critique feedback even more. Time slots run out, people run over their allotted time. You get the point. The dialogue often stays at the surface because the room is too big for deep engagement.
 
   
 
@@ -43,7 +43,7 @@ Synthetic users tighten that loop. They give you instant access to multiple pers
 
   
 
-***#[visual of a designer iterating with a small roster of synthetic teammates around them]***
+***[visual of a designer iterating with a small roster of synthetic teammates around them]***
 
   
 
@@ -79,7 +79,7 @@ The real value is the range and flexibility. You can switch perspectives instant
 
   
 
-***#[visual of different synthetic persona cards orbiting a central idea]***
+***[visual of different synthetic persona cards orbiting a central idea]***
 
   
 
@@ -107,13 +107,19 @@ Start with the roles that consistently influence product decisions.
 
   
 
-***#[visual of a small virtual team cluster: design, PM, architecture, research, customers, executives]***
+***[visual of a small virtual team cluster: design, PM, architecture, research, customers, executives]***
 
   
 
 ### Designers with different lenses
 
 You may want a range of design perspectives based on skill and experience. Some personas focus on UI-level clarity. Others think at the system level and challenge whether the flow holds together end-to-end. Both catch different things and both are valuable.
+
+Example variants of the designer:
+- Designer 
+- Sr designer
+- Principal designer
+- Each can have a specialty like UX, visual, product or service design
 
   
 
@@ -354,3 +360,5 @@ To get started:
   
 
 **Synthetic users don’t replace collaboration — they amplify your ability to think, explore, and prepare**
+
+And yes, I used my digital teammates to help me organize, revise and edit this story :-)
