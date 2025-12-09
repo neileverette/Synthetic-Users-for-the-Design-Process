@@ -1,6 +1,8 @@
 
 # Designing at full speed: Leveraging synthetic users to accelerate the design process
 
+By Neil Everette, December 9, 2025
+
 Design work depends on something we rarely have enough of: timely, high-quality feedback. Most teams wait for the next design share or PM sync or user session, hoping for clarity but often getting surface-level reactions or not enough time to explore the idea. The cycle slows down. Early concepts feel uncertain. A lot of manual effort goes into preparing work that still doesn’t get the depth of critique it needs.
 
 AI tools like ChatGPT, Claude, or Copilot are beginning to change this dynamic. They can function as synthetic teammates across the roles we typically rely on. You can work with them as designers, PMs, architects, researchers, or even as customers seeing your idea for the first time. They provide fast, repeatable feedback whenever you need it. They help you explore the problem space, improve your reasoning, and reduce the overhead required to get to a strong concept.
