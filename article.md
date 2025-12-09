@@ -357,7 +357,7 @@ To get started:
 
 5. Refine them as you learn.
 
-  
+*Combine any of these with automation tools like n8n ( which we'll cover in a later story ), and you have a pipeline of innovation that will unleash your creativity, enabling you to focus on innovation, and less on manual effort*
 
 **Synthetic users don’t replace collaboration — they amplify your ability to think, explore, and prepare**
 
