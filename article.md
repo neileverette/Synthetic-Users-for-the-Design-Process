@@ -310,9 +310,7 @@ Each persona should include:
 
   
 
-  
 
-***[visual of a synthetic persona template showing role, skills, experience, feedback style, traits]***
 
   
 
@@ -333,7 +331,8 @@ Each persona should include:
 Markdown is the ideal format for synthetic users. It’s clean, readable, and works across nearly every AI tool. It’s easy to version, simple to edit, portable across teams, and fits naturally into GitOps workflows.
 
   
-
+![alt text](IMG_05.jpg)
+Save and version your users as you refine them. Make branches for variants where needed.
   
 
 Store your personas in a safe, reliable place. GitHub is perfect because it provides version control, history, forks, and the ability to refine profiles over time — just like components in a design system.
