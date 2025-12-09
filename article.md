@@ -54,7 +54,7 @@ Synthetic users tighten that loop. They give you instant access to multiple pers
 
 
   ![alt text](IMG_2.jpg)
-
+Illustration of the area of opportunity for innovation further in the supply chain.
   
 
 ***[visual of a designer iterating with a small roster of synthetic teammates around them]***
@@ -79,7 +79,8 @@ Feedback doesn’t need to replicate a full design share to be useful. It just n
 
 Synthetic users are AI-driven teammates you design with intention and purpose. They exist for a specific purpose: to give you reliable feedback exactly when you need it. They aren’t shortcuts and they aren’t gimmicks. They’re tools available right now that can help reduce manual toil and accelerate understanding.
 
-  
+![alt text](IMG_3.jpg)
+Illustration of the area of opportunity for innovation further in the supply chain.
 
 They’re built as extensions of the personalities you rely on every day: designers, product managers, technical architects, researchers, customers, and executive stakeholders. Each brings a unique lens to the work and helps you explore ideas from angles that normally take days or weeks to access.
 
