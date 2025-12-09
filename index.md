@@ -8,4 +8,4 @@ title: Synthetic Users
   img { max-width: 100%; height: auto; }
 </style>
 
-{% include_relative Article.md %}
+{% include_relative article.md %}
