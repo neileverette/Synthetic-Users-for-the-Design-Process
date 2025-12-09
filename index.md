@@ -1,5 +1,3 @@
-
-
 <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
 <style>
   main { max-width: 1024px; margin: 0 auto; }
