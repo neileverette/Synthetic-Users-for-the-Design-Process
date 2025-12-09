@@ -15,7 +15,6 @@ Design work depends on something we rarely have enough of: **timely, high-qualit
 
 AI tools like ChatGPT, Claude, or Copilot are beginning to change this dynamic. They can function as synthetic teammates across the roles we typically rely on. You can work with them as designers, PMs, architects, researchers, or even as customers seeing your idea for the first time. They provide fast, repeatable feedback whenever you need it. They help you explore the problem space, improve your reasoning, and reduce the overhead required to get to a strong concept.
 
-  
 
 This article is a practical guide to using AI to accelerate design and research. The focus is on the everyday tasks that slow us down and the ways synthetic users can ease that load. You will learn how to build a small roster of AI teammates, how to tune each one so it reflects the perspective you need, and how to integrate them into your workflow so iteration becomes faster and more confident.
 
@@ -23,9 +22,15 @@ This article is a practical guide to using AI to accelerate design and research.
 
 **Let’s start with why this shift matters to designers.**
 
-  
+---  
 
----
+Before we get too far, I can already hear the little voices from other designers in the room: 
+
+*“But Neil, isn’t this cheating?”* or *“AI doesn’t give us completely accurate results,”* or *“Isn’t this going to displace us?”* So let’s address those quickly. 
+
+- No, it’s not cheating. You’re simply using the tools available to you, just like autocorrect or a quick Wikipedia search. It’s smart, not dishonest. 
+- And yes, AI can be imperfect, but accuracy isn’t the point. If it offloads even half the manual work, that’s still a meaningful amount of time saved. You will always validate the output. You stay in control. 
+- Think of it as a time saver, not an autonomous decision-maker. And no, this doesn’t displace designers. It creates a shift-left advantage. You get to spend more time earlier in the project where the thinking is most valuable, where customer experience gets shaped, and where your craft has the most influence.
 
   
 
