@@ -391,7 +391,8 @@ Once defined, synthetic users become part of your daily rhythm. You can:
 
 - or simply think out loud with a consistent voice
 
-  
+![alt text](IMG_06.jpg)
+Sample definition of my Content Editor - the reviewer.
 
   
 
